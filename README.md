@@ -1,5 +1,4 @@
 # First Project 
 <h1>Hello</h1>
-<p>this is test repo</p>
-<br>
+<h2>this is test repo</h2>
 <p>repo is created by Muhammad Hilal</p>
